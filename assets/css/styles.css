@@ -413,7 +413,7 @@ transition: transform 0.4s;
 .section-container-product {
   display:flex;
   flex-direction: column;
-  padding-bottom: 6rem;
+  padding-bottom: 10rem;
 }
 
 .container-product {
@@ -526,7 +526,7 @@ padding: 0 3rem 0 10rem;
 .state-of-art {
   display:flex;
   width: 100%;
-  height: 50vh;
+  height: 55vh;
   align-items: center;
   position: relative;  
 }
@@ -535,7 +535,7 @@ padding: 0 3rem 0 10rem;
   position: absolute;
   background-image: linear-gradient(to right, hsl(237, 17%, 21%) , hsl(237, 23%, 32%));
   width: 100%;
-  height: 50vh;
+  height: 55vh;
   opacity: 0.8;
   border-bottom-left-radius: 100px;
   border-top-right-radius: 100px;
@@ -547,7 +547,7 @@ padding: 0 3rem 0 10rem;
   background-repeat: no-repeat;
   background-size: 100% ;
   width: 130%;
-  height: 50vh;
+  height: 55vh;
   position: relative;
 }
 .state-text {
@@ -570,7 +570,7 @@ padding: 0 3rem 0 10rem;
   .pattern-image {
     position: absolute;
     z-index: 0;
-    top: -2rem;
+    top: -6rem;
     left: 2rem;
     max-width: 160%;
   }
